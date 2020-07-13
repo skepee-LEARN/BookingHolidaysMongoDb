@@ -1,0 +1,59 @@
+[
+  {
+    "Title": "London",
+    "Description": "Find things to do in London, attractions, sightseeing, events, theatre, restaurants and hotels. Plan your trip to London with useful information.",
+    "ImageUrl": "https://c1.staticflickr.com/9/8459/29491986160_a23a5ccfac_h.jpg",
+    "Booking":
+    {
+      "roundTripImage":"http://c1.staticflickr.com/6/5463/7005160722_3528bd5147_b.jpg",
+      "breakFast":
+      {
+        "items":["English Breakfast","Milk and Espresso Coffee","Yogurt and Muesli"],
+        "imageUrl":"http://c1.staticflickr.com/9/8112/8536993173_bc00a77d98_n.jpg"
+      },     
+      "placesToVisit":
+      {
+        "items":["Tower of London","River Thames Cruise","London Eye"],
+        "imageUrl":"http://c1.staticflickr.com/1/521/18558124519_7857df4b0a_b.jpg"
+      }
+    }
+  },
+  {
+    "Title": "Edinburgh",
+    "Description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+    "ImageUrl": "https://c1.staticflickr.com/5/4177/34168855061_09d57ce644_k.jpg",
+    "Booking":
+    {
+      "roundTripImage":"http://c1.staticflickr.com/6/5463/7005160722_3528bd5147_b.jpg",
+      "breakFast":
+      {
+        "items":["English Breakfast","Milk and Espresso Coffee","Yogurt and Muesli"],
+        "imageUrl":"http://c1.staticflickr.com/9/8112/8536993173_bc00a77d98_n.jpg"
+      },     
+      "placesToVisit":
+      {
+        "items":["Edinburgh Castle","Arthur's Seat","edinburgh Old Town"],
+        "imageUrl":"http://c1.staticflickr.com/1/521/18558124519_7857df4b0a_b.jpg"
+      }
+    }
+},
+  {
+    "Title": "Dublin",
+    "Description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+    "ImageUrl": "https://c1.staticflickr.com/5/4758/26148462238_45c522786e_h.jpg",
+    "Booking":
+    {
+      "roundTripImage":"http://c1.staticflickr.com/6/5463/7005160722_3528bd5147_b.jpg",
+      "breakFast":
+      {
+        "items":["English Breakfast","Milk and Espresso Coffee","Yogurt and Muesli"],
+        "imageUrl":"http://c1.staticflickr.com/9/8112/8536993173_bc00a77d98_n.jpg"
+      },     
+      "placesToVisit":
+      {
+        "items":["Guinness Storehouse","Temple Bar","Dublin Castle"],
+        "imageUrl":"http://c1.staticflickr.com/1/521/18558124519_7857df4b0a_b.jpg"
+      }
+    }
+}
+]
