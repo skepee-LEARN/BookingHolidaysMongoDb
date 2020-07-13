@@ -4,8 +4,7 @@ Continuing to work on [this repository](https://github.com/skepee/HTML2Angular-m
 
 Consider this as an admin section of the page in order to show the list of destinations in Json format.
 
-The database is created with MongoDB and this is the starting structure to use to load data;
-
+The database is created with MongoDB and this is the starting structure to use to load data:
 ```json
 [
   {
@@ -39,5 +38,3 @@ The backend solution provide functions for:
 * Read all items
 * Read an item
 * Delete an item
-
-
